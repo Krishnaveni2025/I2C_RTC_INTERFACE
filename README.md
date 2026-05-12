@@ -9,7 +9,7 @@ It leverages direct GPIO register manipulation without any vendor-specific HAL (
 - **Baremetal I2C Driver:** A custom bit-banged I2C driver (`i2c_bitbang.c`) capable of ~100kHz standard mode operation.
 - **DS1307 Driver:** Abstraction for reading/writing BCD (Binary Coded Decimal) time data, enabling the oscillator, and interacting with the RTC's registers.
 - **ARM Semihosting:** Uses OpenOCD semihosting to route `printf()` output from the microcontroller natively into the VS Code Debug Console.
-- **Custom Build System:** A standalone `Makefile` and custom linker script (`psoc4_linker.ld`) tailored for the 128KB Flash / 16KB SRAM limits of the CY8C4147AZI-S475.
+- **Custom Build System:** A standalone `Makefile` and custom linker script (`psoc4_linker.ld`) tailored for the 128KB Flash / 16KB SRAM limits of the CY8CKIT - 149.
 - **VS Code Ready:** Includes `.vscode/tasks.json` and `.vscode/launch.json` for seamless 1-click building and flashing via the `Cortex-Debug` extension.
 
 ## Hardware Connections
