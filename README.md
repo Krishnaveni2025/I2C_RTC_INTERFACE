@@ -67,3 +67,13 @@ Because the DS1307 loses its time when power is removed (without a coin-cell bat
 
 
 <img width="1536" height="1536" alt="WhatsApp Image 2026-05-13 at 02 10 35" src="https://github.com/user-attachments/assets/f846d3e2-315d-4b35-9225-af82b6c5deed" />
+
+
+
+
+<img width="1536" height="1536" alt="WhatsApp Image 2026-05-13 at 02 23 28" src="https://github.com/user-attachments/assets/42b6ecf8-1780-4c67-8298-d7d4f9fdebb4" />
+
+
+
+https://github.com/user-attachments/assets/86f51059-cd34-4384-a254-f345efddc0d1
+
