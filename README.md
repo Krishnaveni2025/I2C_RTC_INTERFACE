@@ -60,3 +60,10 @@ Because the DS1307 loses its time when power is removed (without a coin-cell bat
 2. Locate the `rtc_time_t init_time` block.
 3. Uncomment it, set your desired initial time, and flash the board.
 4. **Crucial:** Once you verify the time is correct in the console, **comment the block back out** and flash the board one final time. This ensures the PSoC doesn't continually overwrite the time with the hardcoded value every time you reset the microcontroller!
+
+
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/e61401b2-7b6c-4625-b780-d74721d19aea" />
+
+
+
+<img width="1536" height="1536" alt="WhatsApp Image 2026-05-13 at 02 10 35" src="https://github.com/user-attachments/assets/f846d3e2-315d-4b35-9225-af82b6c5deed" />
